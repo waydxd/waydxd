@@ -1,11 +1,10 @@
 ### Hi there 👋
 - 🔭 I’m currently working on -> school assignments 🥹
 - 🌱 I’m currently learning Software Engineering, Computer Organization, Machine Learning 😛
-- 👯 I’m looking to collaborate on any 🫥
+- 👯 I’m looking to collaborate on anything I'm interested!
 - 🤔 I’m looking for help with academics 🤕
-- 💬 Ask me about 🫥
+- 💬 Ask me about Computers!
 - 📫 How to reach me: 
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: love miHoyo games, kpop groups and Linux 🤩
 
 # 💻 Tech Stack:
