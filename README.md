@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Engineering, Computer Organization, Machine Learning 😛
 - 👯 I’m looking to collaborate on anything I'm interested!
 - 🤔 I’m looking for help with academics 🤕
-- 💬 Ask me about Computers!
+- 💬 Ask me about Linux Distro suggestion! 🤩
 - 📫 How to reach me: 
 - ⚡ Fun fact: love miHoyo games, kpop groups and Linux 🤩
 
