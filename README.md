@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on anything I'm interested!
 - 🤔 I’m looking for help with academics 🤕
 - 💬 Ask me about Linux Distro suggestion! 🤩
-- 📫 How to reach me: 
+- 📫 How to reach me: waydxd@outlook.com
 - ⚡ Fun fact: love miHoyo games, kpop groups and Linux 🤩
 
 # 💻 Tech Stack:
