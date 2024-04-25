@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on -> school assignments 🥹
-- 🌱 I’m currently learning Software Engineering, Computer Organization, Machine Learning 😛
+- 🌱 I’m currently learning Qt, Software Engineering, Computer Organization, Machine Learning 😛
 - 👯 I’m looking to collaborate on anything I'm interested!
 - 🤔 I’m looking for help with academics 🤕
 - 💬 Ask me about Linux Distro suggestion! 🤩
