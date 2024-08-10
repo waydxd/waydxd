@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working as an programmer intern 🥹
+- 🔭 I’m currently working as a programmer intern 🥹
 - 🌱 I’m currently learning Qt, Software Engineering, Computer Organization, Machine Learning 😛
 - 👯 I’m looking to collaborate on anything I'm interested!
 - 🤔 I’m looking for help with academics 🤕
