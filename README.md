@@ -1,7 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working as a programmer intern 🥹
-- 🌱 I’m currently learning Qt, Software Engineering, Computer Organization, Machine Learning 😛
-- 👯 I’m looking to collaborate on nothing, who tf will collaborate with me?
+- 🌱 I’m currently learning Go and Rust 😛
 - 🤔 I’m looking for help with academics 🤕
 - 💬 Ask me about Linux Distro suggestion! 🤩
 - 📫 How to reach me: waydxd@outlook.com
