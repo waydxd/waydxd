@@ -3,7 +3,7 @@
 - 🤔 I’m looking for help with academics 🤕
 - 💬 Ask me about Linux Distro suggestion! 🤩
 - 📫 How to reach me: waydxd@outlook.com
-- ⚡ Fun fact: love miHoyo games, ~~kpop groups~~ I prefer English pop now, and Linux 🤩
+- ⚡ Fun fact: nbcs
 
 ### Languages and frameworks I've used:
 [![Language](https://skillicons.dev/icons?i=js,ts,html,css,go,cpp,c,python,php,nodejs,vuejs,laravel,sklearn)](https://skillicons.dev)
