@@ -6,11 +6,11 @@
 - ⚡ Fun fact: nbcs
 
 ### Languages and frameworks I've used:
-[![Language](https://skillicons.dev/icons?i=js,ts,html,css,go,cpp,c,python,php,nodejs,vuejs,laravel,sklearn)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=js,ts,html,css,go,cpp,c,python,php,nodejs,vuejs,laravel,sklearn,java)](https://skillicons.dev)
 ### Tools I've used:
 [![Tools](https://skillicons.dev/icons?i=mysql,sqlite,redis,vite,git,npm,yarn,docker,postman,bash,arch,linux,wordpress)](https://skillicons.dev)
 ### Planning to learn:
-[![future](https://skillicons.dev/icons?i=rust,kotlin,nextjs,electron,qt,nuxtjs,cs)](https://skillicons.dev) 
+[![future](https://skillicons.dev/icons?i=rust,kotlin,qt,cs)](https://skillicons.dev) 
 
 
 # 📊 GitHub Stats:
