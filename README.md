@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Go and Rust 😛
-- 🤔 I’m looking for help with academics 🤕
+- 🤔 I’m looking for help with porting linux to old phones 🤕
 - 💬 Ask me about Linux Distro suggestion! 🤩
 - 📫 How to reach me: waydxd@outlook.com
 - ⚡ Fun fact: nbcs
