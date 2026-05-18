@@ -10,7 +10,7 @@
 ### Tools I've used:
 [![Tools](https://skillicons.dev/icons?i=mysql,sqlite,redis,vite,git,npm,yarn,docker,postman,bash,arch,linux,wordpress,kubernetes,mongodb)](https://skillicons.dev)
 ### Planning to learn:
-[![future](https://skillicons.dev/icons?i=rust,qt,cs)](https://skillicons.dev) 
+[![future](https://skillicons.dev/icons?i=rust,qt,cs,dotnet)](https://skillicons.dev) 
 
 
 # 📊 GitHub Stats:
